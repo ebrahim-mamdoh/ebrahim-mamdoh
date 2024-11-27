@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Ebrahim mamdouh] 👋
 
 I'm a Computer Science and Engineering Student
 
@@ -7,8 +7,8 @@ I'm a Computer Science and Engineering Student
 - 💪 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📬 You can reach me with the links below:
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![Gmail Badge](milto:ebrahimmamdoh3@gmail.com)
+[![LinkedIn Badge](https://www.linkedin.com/in/ebrahim-mamdouh-431070296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
