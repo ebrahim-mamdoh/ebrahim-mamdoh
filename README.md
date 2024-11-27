@@ -37,11 +37,9 @@ I'm a Computer Science and Engineering Student
 I once solved the world's oldest question with a single line of JavaScript:
 
 ```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐔'].sort())
+// Perfect code? What's that? 🤷‍♂️
+const writePerfectCode = () => {
+  throw new Error("Perfection not found. Keep debugging! 🤖");
+};
+writePerfectCode();
 
-
-<!---
-ebrahim-mamdoh/ebrahim-mamdoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
