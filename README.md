@@ -7,8 +7,8 @@ I'm a Computer Science and Engineering Student
 - 💪 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📬 You can reach me with the links below:
 
-[![Gmail Badge](milto:ebrahimmamdoh3@gmail.com)
-[![LinkedIn Badge](https://www.linkedin.com/in/ebrahim-mamdouh-431070296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebrahimmamdoh3@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ziadessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ziad-essa)](https://www.linkedin.com/in/ebrahim-mamdouh-431070296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
